@@ -1,0 +1,10 @@
+module Bindings where
+import Math.NURBS
+import Math.Spline.Knots 
+import Math.Spline.BSpline.Reference
+import Math.Spline.BezierCurve
+import Math.Spline.Hermite
+import Math.Spline.Class
+import Math.Spline.MSpline
+import Math.Spline.ISpline
+import Data.Vector
